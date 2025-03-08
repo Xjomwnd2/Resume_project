@@ -1,0 +1,15 @@
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\bin\Debug\net10.0\ResumeProject.exe
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\bin\Debug\net10.0\ResumeProject.deps.json
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\bin\Debug\net10.0\ResumeProject.runtimeconfig.json
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\bin\Debug\net10.0\ResumeProject.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\bin\Debug\net10.0\ResumeProject.pdb
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.AssemblyInfoInputs.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.AssemblyInfo.cs
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.csproj.CoreCompileInputs.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.sourcelink.json
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\refint\ResumeProject.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.pdb
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ResumeProject.genruntimeconfig.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\ResumeProject\obj\Debug\net10.0\ref\ResumeProject.dll
