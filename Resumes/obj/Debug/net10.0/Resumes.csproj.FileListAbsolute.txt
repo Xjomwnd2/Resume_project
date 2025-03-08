@@ -1,0 +1,15 @@
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\bin\Debug\net10.0\Resumes.exe
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\bin\Debug\net10.0\Resumes.deps.json
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\bin\Debug\net10.0\Resumes.runtimeconfig.json
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\bin\Debug\net10.0\Resumes.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\bin\Debug\net10.0\Resumes.pdb
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.AssemblyInfoInputs.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.AssemblyInfo.cs
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.csproj.CoreCompileInputs.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.sourcelink.json
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\refint\Resumes.dll
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.pdb
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\Resumes.genruntimeconfig.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\cse21C#\Resume_project\Resumes\obj\Debug\net10.0\ref\Resumes.dll
