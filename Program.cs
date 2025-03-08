@@ -1,34 +1,31 @@
-using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Create job instances
-        Job job1 = new Job();
-        job1._company = "Microsoft";
-        job1._jobTitle = "Software Engineer";
-        job1._startYear = 2019;
-        job1._endYear = 2022;
-
-        Job job2 = new Job();
-        job2._company = "Apple";
-        job2._jobTitle = "Manager";
-        job2._startYear = 2022;
-        job2._endYear = 2023;
-
-        // Create resume instance
-        Resume myResume = new Resume();
-        myResume._name = "Allison Rose";
-        
-        // Add jobs to resume
-        myResume._jobs.Add(job1);
-        myResume._jobs.Add(job2);
-
-        // Verify access to job title
-        Console.WriteLine(myResume._jobs[0]._jobTitle);
-
-        // Display resume
-        myResume.Display();
-    }
-}
+echo using System; > Program.cs
+echo. >> Program.cs
+echo class Program >> Program.cs
+echo { >> Program.cs
+echo     static void Main(string[] args) >> Program.cs
+echo     { >> Program.cs
+echo         // Create job instances >> Program.cs
+echo         Job job1 = new Job(); >> Program.cs
+echo         job1._company = "Microsoft"; >> Program.cs
+echo         job1._jobTitle = "Software Engineer"; >> Program.cs
+echo         job1._startYear = 2019; >> Program.cs
+echo         job1._endYear = 2022; >> Program.cs
+echo. >> Program.cs
+echo         Job job2 = new Job(); >> Program.cs
+echo         job2._company = "Apple"; >> Program.cs
+echo         job2._jobTitle = "Manager"; >> Program.cs
+echo         job2._startYear = 2022; >> Program.cs
+echo         job2._endYear = 2023; >> Program.cs
+echo. >> Program.cs
+echo         // Create resume instance >> Program.cs
+echo         Resume myResume = new Resume(); >> Program.cs
+echo         myResume._name = "Allison Rose"; >> Program.cs
+echo. >> Program.cs
+echo         // Add jobs to resume >> Program.cs
+echo         myResume._jobs.Add(job1); >> Program.cs
+echo         myResume._jobs.Add(job2); >> Program.cs
+echo. >> Program.cs
+echo         // Display resume >> Program.cs
+echo         myResume.Display(); >> Program.cs
+echo     } >> Program.cs
+echo } >> Program.cs
